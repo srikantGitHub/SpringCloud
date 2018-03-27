@@ -7,11 +7,11 @@ Before Runnig this applicaiton do the following step
 
 2-- Navigate to config-server-repo and initialize git repository by issuing commond "git init" //be sure git install in System
 
-3-- update the path of this git repository as per the OS in the file config-resource-application.properties file Config application
+3-- update the path of this git repository as per the OS in the file config-resource-application.properties in the  Config application
  
  Hints:- example for window
  
- spring.cloud.config.server.git.uri=file:///G://SpringCloud//Project//config-server-repo (Dive is G in this case)
+ spring.cloud.config.server.git.uri=file:///G://SpringCloud//Project//config-server-repo (Drive is G in this case)
              
 4-- Run the Config Application 
     Navigate to Config folder open commond prompt and issue the following Application
