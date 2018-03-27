@@ -14,7 +14,7 @@ Before Runnig this applicaiton do the following step
  spring.cloud.config.server.git.uri=file:///G://SpringCloud//Project//config-server-repo (Drive is G in this case)
              
 4-- Run the Config Application 
-    Navigate to Config folder open commond prompt and issue the following Application
+    Navigate to Config folder open commond prompt and issue the following Command
     mvn sping-boot:run  //make sure the Maven install in your System
     
 5-- Run Discovery Application step same as use in Running the Config application
